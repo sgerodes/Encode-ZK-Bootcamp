@@ -1,0 +1,7 @@
+1.
+  a) The result is not in the set
+  b) The result is not in hte set
+  c) this depends on the choosen operation. But for both "+" and "*" the inverse is not in the set.
+2. No, because elemnts exist that when using the operation will produce results outside the set. E.g. 4+5
+3. 2
+4. degeree is 3. A positive root is 2
